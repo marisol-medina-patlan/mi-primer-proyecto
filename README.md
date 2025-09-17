@@ -1,2 +1,6 @@
 # mi-primer-proyecto
-proyecto para aprender github
+**proyecto para aprender github**  
+**NOMBRE:** Marisol Medina Patlan  
+**ESPECIALIDAD:** PROGRAMACION   
+**GRUPO:** 5-D  
+
