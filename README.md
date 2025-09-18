@@ -3,4 +3,5 @@
 **NOMBRE:** Marisol Medina Patlan  
 **ESPECIALIDAD:** PROGRAMACION   
 **GRUPO:** 5-D  
+![Mi Fotografia](ruta/a/la/imagen.jpg)
 
